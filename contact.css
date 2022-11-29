@@ -1,0 +1,36 @@
+body {
+	opacity:0.8;
+  border: 0.1px solid black;
+  padding: 100px;
+  background: url("img/backround.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+
+		
+		h1 {text-align: center;
+		 text-align: center;
+		font-size: 50px;
+		color:black;
+		}
+h2 {text-align: center;
+		 text-align: center;
+		font-size: 50px;
+		color:black;
+		}
+h3 {text-align: center;
+		 text-align: center;
+		font-size: 50px;
+		color:black;
+		}
+.size {
+font-size: 40px;
+color:darkblue;
+padding: 5px;
+}
+
+p {text-align: center;
+color:blue;
+
+}
